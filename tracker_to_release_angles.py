@@ -1,3 +1,5 @@
+# Store raw data from Tracker Video Analysis as a txt document
+
 def text_to_tuples(filename):
     tuples_list = []
     with open(filename, 'r') as file:
